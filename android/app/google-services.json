@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "341279407350",
+    "project_id": "salicta-c56ad",
+    "storage_bucket": "salicta-c56ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341279407350:android:d3f6bb97538445ffaf00d7",
+        "android_client_info": {
+          "package_name": "com.salicta.salicta_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn_27NX29jEZ6izlJHU2pGwfbqi9uGc9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
